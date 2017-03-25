@@ -2,6 +2,11 @@
 
 A library to close activity or removing fragments by pull down gesture
 
+## Art
+
+![alt text](https://github.com/fatihsokmen/pull-to-dismiss/blob/master/art/pull-to-dismiss.gif?raw=true "Pull to dismiss")
+
+
 ## Download
 
 Download the latest JAR or grab via Maven:
@@ -24,10 +29,6 @@ repositories {
 compile 'com.github.fatihsokmen:pulltodismiss:1.0'
 
 ```
-
-## Art
-
-![alt text](https://github.com/fatihsokmen/pull-to-dismiss/blob/master/art/pull-to-dismiss.gif?raw=true "Pull to dismiss")
 
 ## License
 ```
