@@ -47,3 +47,5 @@ dependencies {
     testCompile 'junit:junit:4.12'
 }
 
+apply from: 'https://raw.githubusercontent.com/fatihsokmen/pull-to-dismiss/master/install.gradle'
+apply from: 'https://raw.githubusercontent.com/fatihsokmen/pull-to-dismiss/master/bintray.gradle'
