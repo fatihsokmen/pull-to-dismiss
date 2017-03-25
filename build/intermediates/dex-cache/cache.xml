@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/fatih/AndroidStudioProjects/pull-to-dismiss/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cf3376530a87791525c0ba627fcb630f0be0d2d8">
+        <dex dex="/Users/fatih/AndroidStudioProjects/pull-to-dismiss/app/build/intermediates/pre-dexed/debug/instant-run_07ae850dd988fdd7b09db656effa2ddedfe5e466.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fatih/AndroidStudioProjects/pull-to-dismiss/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/Users/fatih/AndroidStudioProjects/pull-to-dismiss/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.0_f346f8d7aa48b4ba661c69085ca4cabe78eb20c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fatih/AndroidStudioProjects/pull-to-dismiss/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0574ed2d84818912551ca293a0f301554b57307a">
+        <dex dex="/Users/fatih/AndroidStudioProjects/pull-to-dismiss/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_fcee2385c68e771d30d89193f749cde95402db1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fatih/AndroidStudioProjects/pull-to-dismiss/app/build/intermediates/exploded-aar/com.android.support/design/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="/Users/fatih/AndroidStudioProjects/pull-to-dismiss/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.3.0_fe70ac2dd28200c76177a5c257d43431d92753b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fatih/AndroidStudioProjects/pull-to-dismiss/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/Users/fatih/AndroidStudioProjects/pull-to-dismiss/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.0_9db8c670ee60507845053ac06ac634df69749ee0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fatih/AndroidStudioProjects/pull-to-dismiss/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="/Users/fatih/AndroidStudioProjects/pull-to-dismiss/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.0_0c3e78887203456b24a8c1612d64627667ff959d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fatih/AndroidStudioProjects/pull-to-dismiss/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/Users/fatih/AndroidStudioProjects/pull-to-dismiss/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.0_1812b099ee9b0b686acf6b6c17c484592addc72c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fatih/AndroidStudioProjects/pull-to-dismiss/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/Users/fatih/AndroidStudioProjects/pull-to-dismiss/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.0_c5162bf5a3fd5246303772a53a662c596b86cf15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fatih/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/Users/fatih/AndroidStudioProjects/pull-to-dismiss/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.0_0bec85714bc9a9db82c2922f033ce717d94836cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fatih/AndroidStudioProjects/pull-to-dismiss/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/Users/fatih/AndroidStudioProjects/pull-to-dismiss/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.0_7bd8acac6bedd554bf81c1b4d45d323ac03f21ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fatih/AndroidStudioProjects/pull-to-dismiss/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/Users/fatih/AndroidStudioProjects/pull-to-dismiss/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.0_f6cce6fe93bda3b914c6e8290bc12c87d43e477d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fatih/AndroidStudioProjects/pull-to-dismiss/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="/Users/fatih/AndroidStudioProjects/pull-to-dismiss/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.3.0_2a642ad3a06fb35894d4c7b1447ce88f092d6ed7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fatih/AndroidStudioProjects/pull-to-dismiss/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/Users/fatih/AndroidStudioProjects/pull-to-dismiss/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.0_c15d20567397373c6fc6c225cf4bf73e7373b956.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fatih/AndroidStudioProjects/pull-to-dismiss/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/fatih/AndroidStudioProjects/pull-to-dismiss/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.0_a166a7a33cc5aeae520ff682eda9570932d1eaa9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fatih/AndroidStudioProjects/pull-to-dismiss/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/Users/fatih/AndroidStudioProjects/pull-to-dismiss/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.0_1e3b3cf755dbc6a4c0550ec09c69e3379e4de507.jar" />
+    </item>
+
+</items>
