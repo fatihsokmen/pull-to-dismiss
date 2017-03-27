@@ -15,7 +15,7 @@ Download the latest JAR or grab via Maven:
 <dependency>
   <groupId>com.github.fatihsokmen</groupId>
   <artifactId>pulltodismiss</artifactId>
-  <version>1.0</version>
+  <version>1.1</version>
 </dependency>
 ```
 or Gradle:
@@ -26,7 +26,7 @@ repositories {
     }
 }
 
-compile 'com.github.fatihsokmen:pulltodismiss:1.0'
+compile 'com.github.fatihsokmen:pulltodismiss:1.1'
 
 ```
 
