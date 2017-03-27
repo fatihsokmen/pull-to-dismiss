@@ -129,13 +129,7 @@ public class PullDismissLayout extends FrameLayout {
         }
 
         public int clampViewPositionVertical(View child, int top, int dy) {
-            if (top < 0) {
-                return 0;
-            }
-            if (dismissed) {
-                return top;
-            }
-            return top;
+            return top < 0 ? 0 : top;
         }
 
         public void onViewCaptured(View view, int activePointerId) {
